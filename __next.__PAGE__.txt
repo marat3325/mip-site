@@ -1,0 +1,81 @@
+1:"$Sreact.fragment"
+2:"/mip-site/_next/static/chunks/37iotk_isjvyj.js"
+3:I[7482,["$2"],"SmoothScroll"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/mip-site/_next/static/chunks/2nm5k51u108lz.js"
+7:"/mip-site/_next/static/chunks/1kpe6t8mn8iqb.js"
+8:I[83234,["$2","$6","$7"],"ButtonWithIcon"]
+c:"/mip-site/_next/static/chunks/2gzoi5i4vgt7k.js"
+d:"/mip-site/_next/static/chunks/1cal-_y2gug-9.js"
+e:"/mip-site/_next/static/chunks/000aw4y-ra5x6.js"
+f:"/mip-site/_next/static/chunks/0mwcrxk0_t0iy.js"
+10:"/mip-site/_next/static/chunks/0wehsd-cscx4e.js"
+11:I[9621,["$2","$c","$d","$e","$7","$f","$10"],"Preloader"]
+12:I[76205,["$2","$c","$d","$e","$7","$f","$10"],"JumpShutter"]
+13:I[30878,["$2","$c","$d","$e","$7","$f","$10"],"SiteMenu"]
+14:I[85161,["$2","$c","$d","$e","$7","$f","$10"],"Hero"]
+28:"ViewportBoundary"
+29:I[97367,["$2"],"$28"]
+2a:"MetadataBoundary"
+2b:I[97367,["$2"],"$2a"]
+2c:"$Sreact.suspense"
+:HL["/mip-site/_next/static/chunks/2oh8tp3nar9v4.css","style"]
+:HL["/mip-site/_next/static/chunks/1lmvlcxe5fxf9.css","style"]
+:HL["/mip-site/_next/static/chunks/19rhlcx2srev9.css","style"]
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","main",null,{"className":"flex flex-col gap-section overflow-x-clip","children":[["$","$L14",null,{}],["$","section",null,{"id":"fakty","aria-label":"Факты о компании","className":"px-gutter","children":["$","ul",null,{"className":"grid md:grid-cols-3 md:divide-x md:divide-ink/20","children":[["$","li","лет",{"className":"flex flex-col gap-4 border-t border-ink/20 py-5 md:px-4 md:first:pl-0 lg:px-col lg:py-6","children":[["$","p",null,{"className":"flex items-baseline gap-2 font-heading leading-[0.9] font-bold tracking-[-0.04em]","children":[["$","span",null,{"className":"tabular-nums text-[52px] sm:text-[62px] lg:text-[clamp(48px,calc(var(--px)*90),102px)]","children":[15,"+"]}],["$","span",null,{"className":"text-[16px] tracking-[-0.01em] whitespace-nowrap lg:text-[clamp(15px,calc(var(--px)*24),24px)] lg:font-medium","children":"лет"}]]}],"$L15"]}],"$L16","$L17"]}]}],"$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}],"$L1f"],["$L20","$L21","$L22","$L23","$L24","$L25"],"$L26"]}],"p":"$@27","v":null,"s":"$a"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mip-site/_next/static/chunks/2oh8tp3nar9v4.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/mip-site/_next/static/chunks/1lmvlcxe5fxf9.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/mip-site/_next/static/chunks/19rhlcx2srev9.css","precedence":"next"}],["$","script","script-0",{"src":"/mip-site/_next/static/chunks/37iotk_isjvyj.js","async":true}]],["$","html",null,{"lang":"ru","className":"Tt-IIG_variable antialiased","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{sessionStorage.getItem(\"intro\")&&document.documentElement.classList.add(\"seen\")}catch(e){}"}}],["$","link",null,{"rel":"preload","as":"image","type":"image/avif","media":"(max-width: 1023px)","imageSrcSet":"/mip-site/img/femida-gloves-600.avif 600w, /mip-site/img/femida-gloves-900.avif 900w","imageSizes":"100vw","fetchPriority":"high"}],["$","link",null,{"rel":"preload","as":"image","type":"image/avif","media":"(min-width: 1024px)","imageSrcSet":"/mip-site/img/femida-gloves-1200.avif 1200w, /mip-site/img/femida-gloves.avif 1672w","imageSizes":"min(150vh, 84vw)","fetchPriority":"high"}]]}],["$","body",null,{"className":"bg-paper t-body text-ink","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"Мощонский и партнеры\",\"url\":\"https://marat3325.github.io/mip-site/\",\"logo\":\"https://marat3325.github.io/mip-site/apple-icon.png\",\"image\":\"https://marat3325.github.io/mip-site/og.jpg\",\"description\":\"Антикризисное управление как искусство: безупречная репутация в индустрии банкротства и управлении стрессовыми активами. Опыт наших специалистов — с 2011 года.\",\"telephone\":\"+79626966226\",\"email\":\"i.mos.spb@gmail.com\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"RU\",\"addressLocality\":\"Санкт-Петербург\",\"streetAddress\":\" ул. Новгородская, д. 23 (пространство Smart)\"},\"sameAs\":[\"https://t.me/mip_law\",\"https://t.me/digestoroom\",\"https://digestoroom.ru/\",\"https://rutube.ru/channel/71650170/\",\"https://youtube.com/@digestoroom\"]},{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Мощонский и партнеры\",\"url\":\"https://marat3325.github.io/mip-site/\",\"inLanguage\":\"ru\"}]"}}],["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"className":"grid min-h-svh place-items-center px-gutter py-section text-center","children":["$","div",null,{"className":"flex flex-col items-center","children":[["$","p",null,{"aria-hidden":"true","className":"font-heading text-[clamp(120px,34vw,280px)] leading-[0.8] font-bold tracking-[-0.04em]","children":"404"}],["$","h1",null,{"className":"t-32 mt-10","children":"Страница не найдена"}],["$","$L8",null,{"href":"https://marat3325.github.io/mip-site/","className":"mt-10","children":"На главную"}]]}]}],[]]}]]}]]}]]}],"p":"$@9","v":null,"s":"$a"},"c":"$Qb"},"h":{"r":["$","$1","h",{"children":[null,["$","$L29",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f0f1f4"}]]}],["$","$L2b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Мощонский и партнеры — антикризисное управление"}],["$","meta","1",{"name":"description","content":"Антикризисное управление как искусство: безупречная репутация в индустрии банкротства и управлении стрессовыми активами. Опыт наших специалистов — с 2011 года."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://marat3325.github.io/mip-site/"}],["$","meta","4",{"name":"yandex-verification","content":"b28e005c15faaafe"}],["$","meta","5",{"property":"og:title","content":"Мощонский и партнеры — антикризисное управление"}],["$","meta","6",{"property":"og:description","content":"Антикризисное управление как искусство: безупречная репутация в индустрии банкротства и управлении стрессовыми активами. Опыт наших специалистов — с 2011 года."}],"$L2d","$L2e","$L2f","$L30","$L31","$L32","$L33","$L34","$L35","$L36","$L37","$L38","$L39","$L3a","$L3b","$L3c"]}]}],null]}],"$L3d"]}],"p":"$@3e","v":null,"s":"$a"}},"a":"$@3f","u":"$@40","b":"FyVe7ba3OZAHXvX9BauoP"}
+41:I[88244,["$2","$c","$d","$e","$7","$f","$10"],"Practices"]
+42:I[20608,["$2","$c","$d","$e","$7","$f","$10"],"CompanyOverview"]
+43:I[50791,["$2","$c","$d","$e","$7","$f","$10"],"PartnerStage"]
+44:I[53149,["$2","$c","$d","$e","$7","$f","$10"],"Ecosystem"]
+45:I[99673,["$2","$c","$d","$e","$7","$f","$10"],"Podcast"]
+46:I[81400,["$2","$c","$d","$e","$7","$f","$10"],"Awards"]
+47:I[88023,["$2","$c","$d","$e","$7","$f","$10"],"Cases"]
+48:I[76841,["$2","$c","$d","$e","$7","$f","$10"],"Footer"]
+49:I[97367,["$2"],"OutletBoundary"]
+4b:I[27201,["$2"],"IconMark"]
+15:["$","p",null,{"className":"t-body max-w-[34ch] opacity-85","children":"успешной практики проведения процедур банкротства с лидерами рынка"}]
+16:["$","li","млрд ₽",{"className":"flex flex-col gap-4 border-t border-ink/20 py-5 md:px-4 md:first:pl-0 lg:px-col lg:py-6","children":[["$","p",null,{"className":"flex items-baseline gap-2 font-heading leading-[0.9] font-bold tracking-[-0.04em]","children":[["$","span",null,{"className":"tabular-nums text-[52px] sm:text-[62px] lg:text-[clamp(48px,calc(var(--px)*90),102px)]","children":[3,"+"]}],["$","span",null,{"className":"text-[16px] tracking-[-0.01em] whitespace-nowrap lg:text-[clamp(15px,calc(var(--px)*24),24px)] lg:font-medium","children":"млрд ₽"}]]}],["$","p",null,{"className":"t-body max-w-[34ch] opacity-85","children":"задолженности под управлением нашей компании"}]]}]
+17:["$","li","в месяц",{"className":"flex flex-col gap-4 border-t border-ink/20 py-5 md:px-4 md:first:pl-0 lg:px-col lg:py-6","children":[["$","p",null,{"className":"flex items-baseline gap-2 font-heading leading-[0.9] font-bold tracking-[-0.04em]","children":[["$","span",null,{"className":"tabular-nums text-[52px] sm:text-[62px] lg:text-[clamp(48px,calc(var(--px)*90),102px)]","children":[60,"+"]}],["$","span",null,{"className":"text-[16px] tracking-[-0.01em] whitespace-nowrap lg:text-[clamp(15px,calc(var(--px)*24),24px)] lg:font-medium","children":"в месяц"}]]}],["$","p",null,{"className":"t-body max-w-[34ch] opacity-85","children":"судебных заседаний с нашим участием"}]]}]
+18:["$","$L41",null,{}]
+19:["$","$L42",null,{}]
+1a:["$","$L43",null,{}]
+1b:["$","$L44",null,{}]
+1c:["$","$L45",null,{}]
+1d:["$","$L46",null,{}]
+1e:["$","$L47",null,{}]
+1f:["$","$L48",null,{}]
+20:["$","script","script-0",{"src":"/mip-site/_next/static/chunks/2gzoi5i4vgt7k.js","async":true}]
+21:["$","script","script-1",{"src":"/mip-site/_next/static/chunks/1cal-_y2gug-9.js","async":true}]
+22:["$","script","script-2",{"src":"/mip-site/_next/static/chunks/000aw4y-ra5x6.js","async":true}]
+23:["$","script","script-3",{"src":"/mip-site/_next/static/chunks/1kpe6t8mn8iqb.js","async":true}]
+24:["$","script","script-4",{"src":"/mip-site/_next/static/chunks/0mwcrxk0_t0iy.js","async":true}]
+25:["$","script","script-5",{"src":"/mip-site/_next/static/chunks/0wehsd-cscx4e.js","async":true}]
+26:["$","$L49",null,{"children":["$","$2c",null,{"name":"Next.MetadataOutlet","children":"$@4a"}]}]
+2d:["$","meta","7",{"property":"og:url","content":"https://marat3325.github.io/mip-site/"}]
+2e:["$","meta","8",{"property":"og:site_name","content":"Мощонский и партнеры"}]
+2f:["$","meta","9",{"property":"og:locale","content":"ru_RU"}]
+30:["$","meta","10",{"property":"og:image","content":"https://marat3325.github.io/mip-site/og.jpg"}]
+31:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+32:["$","meta","12",{"property":"og:image:height","content":"630"}]
+33:["$","meta","13",{"property":"og:image:alt","content":"Мощонский и партнеры — антикризисное управление"}]
+34:["$","meta","14",{"property":"og:type","content":"website"}]
+35:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+36:["$","meta","16",{"name":"twitter:title","content":"Мощонский и партнеры — антикризисное управление"}]
+37:["$","meta","17",{"name":"twitter:description","content":"Антикризисное управление как искусство: безупречная репутация в индустрии банкротства и управлении стрессовыми активами. Опыт наших специалистов — с 2011 года."}]
+38:["$","meta","18",{"name":"twitter:image","content":"https://marat3325.github.io/mip-site/og.jpg"}]
+39:["$","link","19",{"rel":"icon","href":"/mip-site/icon.png?icon.0h-5tidn6e78o.png","sizes":"256x256","type":"image/png"}]
+3a:["$","link","20",{"rel":"icon","href":"/mip-site/icon.svg?icon.2br8lvj5pcs1l.svg","sizes":"any","type":"image/svg+xml"}]
+3b:["$","link","21",{"rel":"apple-touch-icon","href":"/mip-site/apple-icon.png?apple-icon.3v-mvum1jzh9u.png","sizes":"180x180","type":"image/png"}]
+3c:["$","$L4b","22",{}]
+3d:["$","meta",null,{"name":"next-size-adjust","content":""}]
+a:300
+4a:null
+40:true
+a:C
+3f:0
+9:"$undefined"
+3e:"$undefined"
+27:"$undefined"

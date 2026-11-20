@@ -1,0 +1,6 @@
+:HL["/mip-site/_next/static/chunks/2oh8tp3nar9v4.css","style"]
+:HL["/mip-site/_next/static/chunks/1lmvlcxe5fxf9.css","style"]
+:HL["/mip-site/_next/static/chunks/19rhlcx2srev9.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"FyVe7ba3OZAHXvX9BauoP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
